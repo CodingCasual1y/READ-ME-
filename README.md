@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Yami</h1>
-<h3 align="center">A passionate frontend developer from India 😜</h3>
+<h3 align="center">A passionate developer from India 😜</h3>
 
 <p align="left"> <a href="https://twitter.com/amr71682630" target="blank"><img src="https://img.shields.io/twitter/follow/amr71682630?logo=twitter&style=for-the-badge" alt="amr71682630" /></a> </p>
 
 - ⚡Youtube https://www.youtube.com/@yamiogandam
-- 🔧 My discord **CasualYamato#9999**
+- 
+- 🔧 My discord **860034668925943809**
 
-- 🌱 I’m currently trying to make a bot
-
-- 📫 How to reach me **whereisgtno2010@gmail.com**
+- 📫 How to reach me **ammar.pinjari22010@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
