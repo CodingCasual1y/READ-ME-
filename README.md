@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/amr71682630" target="blank"><img src="https://img.shields.io/twitter/follow/amr71682630?logo=twitter&style=for-the-badge" alt="amr71682630" /></a> </p>
 
-- ⚡Youtube https://www.youtube.com/@yamiogandam
+- ⚡Youtube https: //www.youtube.com/@yamiogandam
 
-- 🔧 My discord **yamiogandam**
+- 🔧 My discord:  **yamiogandam**
 
-- 📫 How to reach me **ammar.pinjari22010@gmail.com**
+- 📫 How to reach me:  **ammar.pinjari22010@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,5 +16,3 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ammar-hue&show_icons=true&locale=en&layout=compact" alt="ammar-hue" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ammar-hue&" alt="ammar-hue" /></p>
