@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm CasualGoods</h1>
-<h3 align="center">A passionate frontend developer from Japan</h3>
+<h1 align="center">Hi 👋, I'm Yami</h1>
+<h3 align="center">A passionate frontend developer from India 😜</h3>
 
 <p align="left"> <a href="https://twitter.com/amr71682630" target="blank"><img src="https://img.shields.io/twitter/follow/amr71682630?logo=twitter&style=for-the-badge" alt="amr71682630" /></a> </p>
 
