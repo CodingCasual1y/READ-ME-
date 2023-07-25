@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/amr71682630" target="blank"><img src="https://img.shields.io/twitter/follow/amr71682630?logo=twitter&style=for-the-badge" alt="amr71682630" /></a> </p>
 
-- ⚡Youtube [https://www.youtube.com/channel/UCIHyN5BNxbL-FbhxNw5rv4Q](https://www.youtube.com/channel/UCIHyN5BNxbL-FbhxNw5rv4Q)
+- ⚡Youtube [[https://www.youtube.com/channel/UCIHyN5BNxbL-FbhxNw5rv4Q](https://www.youtube.com/@yamiogandam)](https://www.youtube.com/channel/UCIHyN5BNxbL-FbhxNw5rv4Q)
 
 - 🔧 My discord **CasualYamato#9999**
 
-- 🌱 I’m currently trying to make a bot ****
+- 🌱 I’m currently trying to make a bot
 
 - 📫 How to reach me **whereisgtno2010@gmail.com**
 
