@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/amr71682630" target="blank"><img src="https://img.shields.io/twitter/follow/amr71682630?logo=twitter&style=for-the-badge" alt="amr71682630" /></a> </p>
 
-- ⚡Youtube https: //www.youtube.com/@yamiogandam
+- ⚡Youtube https: www.youtube.com/@yamiogandam
 
 - 🔧 My discord:  **yamiogandam**
 
