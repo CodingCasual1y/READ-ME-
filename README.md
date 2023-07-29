@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yami</h1>
-<h3 align="center">A passionate developer from India 😜</h3>
+<h3 align="center">:)</h3>
 
 <p align="left"> <a href="https://twitter.com/yamiogandam" target="_blank"><img src="https://img.shields.io/twitter/follow/yamiogandam?logo=twitter&style=for-the-badge" alt="yamiogandam" /></a> </p>
 
