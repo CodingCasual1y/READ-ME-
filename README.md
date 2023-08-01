@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yami</h1>
-<h3 align="center">:)</h3>
+<h1 align="center">Hi 👋, I'm Ammar</h1>
+<h3 align="center">👩‍💻 Frontend Developer ● 🕸 HTML</h3>
 
 <p align="left"> <a href="https://twitter.com/yamiogandam" target="_blank"><img src="https://img.shields.io/twitter/follow/yamiogandam?logo=twitter&style=for-the-badge" alt="yamiogandam" /></a> </p>
 
